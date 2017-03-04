@@ -1,2 +1,2 @@
 # valalista
-Valalista repository. 
+Valalista repository. OMP-PRJTGAMEPIX. 03-03-2017: Este es el prototipo para la creación del proyecto valalista, creación de las bases del proyecto del mismo.  http://ompixcorporation.com/
